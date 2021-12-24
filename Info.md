@@ -1,7 +1,7 @@
 # Honeycomb-Dump
 its just a dump
 
-# BLOCKED DEBUGGERS FOR THIS PROGRAM
+# blocked decompilers and debuggers and whatever the fuck
 
 "Progress Telerik Fiddler Web Debugger"
 "Fiddler"
@@ -68,4 +68,4 @@ its just a dump
 "process monitor
 "qt5core"
 
-ilyTOMMY
+this isnt shit fuck off stop pestering me about it
