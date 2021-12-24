@@ -1,17 +1,7 @@
 # Honeycomb-Dump
-Dump of Honeycombs source code. This was done just for shits and giggles because I got bored. This is an old as fuck version by a few months but still worth putting up here because apparently I'm nothing LMAO!
+its just a dump
 
-Terms of Service
-
-You MAY use this code as your own license it yourself, and keep in all of your projects
-
-You MAY use this code and crack the authentication for a free external VALORANT cheat worth $250 USD
-
-You MAY suck a dick if you're upset by the dump being put on github, I'm only putting it up here because it's a pretty cool project of mine (@feticks')
-
-HAVE FUN WITH THIS!
-
-# BLOCKED DECOMPILERS FOR THIS PROGRAM
+# BLOCKED DEBUGGERS FOR THIS PROGRAM
 
 "Progress Telerik Fiddler Web Debugger"
 "Fiddler"
